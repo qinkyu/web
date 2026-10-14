@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nineg.win/sitemap.xml
